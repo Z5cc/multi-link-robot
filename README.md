@@ -1,3 +1,3 @@
-[Presentation](https://z5cc.github.io/5-axis-multi-link-robot/presentation.pdf)
+<a href="Presentation">https://z5cc.github.io/multi-link-robot/presentation.pdf</a>
 
-[Product Video](https://z5cc.github.io/5-axis-multi-link-robot/product-video.mp4)
+<a href="Product Video">https://z5cc.github.io/multi-link-robot/product-video.mp4</a>
