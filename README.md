@@ -1,3 +1,3 @@
-<a href="Presentation">https://z5cc.github.io/multi-link-robot/presentation.pdf</a>
+[Presentation](https://z5cc.github.io/multi-link-robot/presentation.pdf)
 
-<a href="Product Video">https://z5cc.github.io/multi-link-robot/product-video.mp4</a>
+[Product Video](https://z5cc.github.io/multi-link-robot/product-video.mp4)
